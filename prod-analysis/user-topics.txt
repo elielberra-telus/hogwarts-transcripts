@@ -1,0 +1,186 @@
+List of All Overall Topics (No Duplicates)
+
+Customer Retention & Cancellations
+Billing & Payment Issues
+Service Renewals & Contract Management
+Promotional Campaigns & Offers
+Product Information & Pricing
+Equipment & Technical Issues
+Policy & Procedures
+Account Management & Access
+Moving & Relocation Services
+Installation & Technician Services
+Smart Home Security (SHS)
+Customer Service & Escalations
+Streaming & Content Access
+Special Programs & Discounts
+System & Process Questions
+Overall Topics with Subtopics (No Duplicates)
+
+1. Customer Retention & Cancellations
+
+Save attempts and retention strategies ("Start Save" scenarios)
+Competitor offer matching (Rogers, Shaw, Novus, Starlink, Beanfield, Carry Tel)
+Pricing objections and negotiations
+Moving/relocation cancellations (out of country, care facilities, new addresses)
+Churn risk management
+Transfer of Ownership (TOWN) scenarios
+Service dissatisfaction
+Usage-based cancellations
+2. Billing & Payment Issues
+
+Bill increases and disputes
+Promotional discount expirations
+Credits and adjustments (OTC, goodwill credits)
+Late payment charges and overdue accounts
+Payment setup and PAP enrollment (credit card vs. bank)
+Billing discrepancies and overcharges
+Treatment accounts and collections
+Payment transfers between accounts
+Partial charges explanations
+Bill reprint requests
+Payment processing issues
+3. Service Renewals & Contract Management
+
+Service agreement renewals (2-year, 24-month terms)
+Contract expiration concerns
+Early renewal requests
+Package upgrades/downgrades
+Adding or removing services (Internet, TV, Home Phone, Smart Home Security)
+Plan changes and restructuring
+Speed/plan changes and upgrades (Internet 250, 500, 1GB, 1.5GB, 3GB)
+Bundle restructuring
+ETF (Early Termination Fee) discussions
+4. Promotional Campaigns & Offers
+
+Black Friday deals and positioning
+Boxing Day promotions
+Loyalty offers and discount codes
+EPP (Employee Purchase Program) discounts
+Mobile & Home (M&H) bundle discounts
+MDU (Multi-Dwelling Unit) discounts
+Building partnered programs (25% discounts)
+New customer vs. existing customer offers
+Seasonal promotional campaigns
+5. Product Information & Pricing
+
+Available packages and pricing
+Channel lineups and content availability
+Streaming services (Stream+, Netflix, Disney+, Amazon Prime, Apple TV+, Hayu, Crave, Paramount)
+Internet speed tiers and features
+TV packages (Optik, Pik TV, Essentials, Core, Theme Packs, Live & Streaming)
+Home Phone features and long distance plans
+Smart Home Security packages
+Equipment compatibility
+Channel-specific inquiries (sports, news, entertainment)
+Package comparisons and recommendations
+6. Equipment & Technical Issues
+
+Equipment returns (Purolator, Canada Post)
+TV box replacements and upgrades
+Modem/router issues and compatibility
+Equipment activation and setup
+Service quality issues and connectivity problems
+Equipment troubleshooting (modems, TV boxes, remotes)
+Installation problems
+Equipment waiver scenarios
+Missing or damaged equipment
+Remote control issues
+Non-returned equipment charges
+7. Policy & Procedures
+
+Early Termination Fees (ETF) and waiver scenarios
+Service agreements and contract terms
+VSOS (Vacation Suspension of Service)
+Fraud reporting and security concerns
+Deceased customer procedures
+Credit policies and limits
+Authentication requirements
+Fee waiver policies
+Policy clarifications
+Return procedures
+Simple Switch procedures
+8. Account Management & Access
+
+Account access and password resets
+Billing address and email updates
+My TELUS app/online access issues
+Account closure procedures
+Authorized user management
+Power of Attorney (POA) requests
+Account linking (Mobility to Home Services)
+Email verification and login issues
+Account authentication
+Contact information changes
+Billing method changes (eBill, paper bill)
+9. Moving & Relocation Services
+
+Moving services to new addresses
+Moving out of country/province permanently
+Moving to addresses with existing service
+Address qualification and serviceability
+Overlapping moves
+Cease and reprovide scenarios
+Moving to care facilities
+Relocation fee disputes
+10. Installation & Technician Services
+
+Appointment booking and rescheduling
+Technician delays or no-shows
+Installation fee waivers
+Professional installation requests
+Self-installation issues
+Technician damage claims
+Wi-Fi Plus installation
+Tech visit charges and disputes
+Fiber drop issues
+11. Smart Home Security (SHS)
+
+SHS cancellations and retention
+SHS package changes
+SHS equipment and monitoring
+SHS transfers to loyalty team
+SHS bundling with other services
+SHS app issues
+SHS discount programs
+12. Customer Service & Escalations
+
+Complaints about previous agent interactions
+Service quality concerns
+Customer satisfaction issues
+Escalation to managers/EMT
+Follow-up callbacks and unresolved issues
+Compensation requests
+CRTC complaint threats
+Agent behavior concerns
+Wait time complaints
+13. Streaming & Content Access
+
+Activation of streaming services through TELUS
+Content availability questions
+Channel access issues
+Parental controls and PIN setup
+VOD (Video on Demand) issues
+Cloud PVR functionality
+Streaming app troubleshooting
+Premium content access
+14. Special Programs & Discounts
+
+Internet for Good (low income/seniors)
+Student discounts
+Building partnered discounts (Boardwalk, etc.)
+Employee discounts and ambassador programs
+TELUS Rewards points
+Connecting Family discounts
+Special rate programs
+15. System & Process Questions
+
+Tool usage (CSR, CASA, OneSource, FIFA, WWE)
+Procedure clarifications
+Ticket creation and escalations
+Order processing issues and errors
+Manual tasks and backend issues
+Code validation and promo code application
+Error resolution
+Department transfers and routing
+Internal consultation requests
